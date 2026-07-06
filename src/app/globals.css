@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+  direction: rtl;
+  background: #1a1a2e;
+  color: #e0e0e0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+input, button {
+  font-family: 'Vazirmatn', 'Tahoma', sans-serif;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
