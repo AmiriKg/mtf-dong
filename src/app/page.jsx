@@ -1,5 +1,5 @@
-import MftDong from "./MftDong";
+import MTFDong from "./MTFDong";
 
 export default function Page() {
-  return <MftDong />;
+  return <MTFDong />;
 }
